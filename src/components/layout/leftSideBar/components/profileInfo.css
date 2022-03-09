@@ -1,0 +1,11 @@
+.profileInfo div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    direction: ltr;
+}
+
+.profileInfoUsername p{
+    font-weight: 600;
+    font-size: 1.3rem;
+}

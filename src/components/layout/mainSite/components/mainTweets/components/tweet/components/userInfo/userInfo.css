@@ -1,0 +1,8 @@
+.mainTweetsUserInfoName > :nth-child(1) {
+    font-weight: 900;
+  }
+  
+  .mainTweetsUserInfoName > :nth-child(2) {
+    direction: ltr;
+  }
+  

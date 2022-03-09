@@ -1,0 +1,13 @@
+.bestReporters{
+    border-radius: 2rem;
+} 
+
+.bestReporters div{
+    border-radius: 2rem;
+}
+
+.bestReportersHeaders{
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+}

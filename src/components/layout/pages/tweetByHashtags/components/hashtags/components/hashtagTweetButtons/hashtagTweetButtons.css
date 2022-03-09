@@ -1,0 +1,37 @@
+
+.mainTweetsButtons {
+    direction: ltr;
+    display: flex;
+  }
+  
+  .retweetButton {
+    border: 1px solid gray;
+    font-size: 2rem;
+    color: gray;
+    border-radius: 50%;
+    padding: 0.5rem;
+    transition: all 0.4s ease;
+  }
+  
+  .likeButton {
+    border: 1px solid gray;
+    font-size: 2rem;
+    color: red;
+    border-radius: 50%;
+    padding: 0.5rem;
+    transition: all 0.4s ease;
+  }
+  
+  .retweetButton:hover,
+  .likeButton:hover {
+    background-color: rgba(87, 87, 87, 0.212);
+    transition: all 0.2s ease;
+  }
+  
+  .retweetButton i,
+  .likeButton i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
